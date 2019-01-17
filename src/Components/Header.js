@@ -5,7 +5,7 @@ class Header extends Component {
         return (
             <div>
                 <header className="App-header">
-                    <h1>Props Activity</h1>
+                    <h1>React Components</h1>
                 </header>
             </div>
         )
